@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Michael_PC/Documents/modelos_machine_learning/mlops-project-with-MLflow/mlruns/0/f1b80d2b09d043e5b319620837d5fad3/artifacts
+end_time: 1710161827631
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f1b80d2b09d043e5b319620837d5fad3
+run_name: capricious-calf-916
+run_uuid: f1b80d2b09d043e5b319620837d5fad3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1710161817927
+status: 3
+tags: []
+user_id: Michael_PC

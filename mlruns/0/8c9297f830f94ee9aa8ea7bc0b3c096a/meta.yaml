@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Michael_PC/Documents/modelos_machine_learning/mlops-project-with-MLflow/mlruns/0/8c9297f830f94ee9aa8ea7bc0b3c096a/artifacts
+end_time: 1710448037474
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8c9297f830f94ee9aa8ea7bc0b3c096a
+run_name: indecisive-whale-768
+run_uuid: 8c9297f830f94ee9aa8ea7bc0b3c096a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1710448026098
+status: 3
+tags: []
+user_id: Michael_PC
